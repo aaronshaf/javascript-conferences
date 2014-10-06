@@ -43,16 +43,23 @@
 * [conf.utahjs.com](http://conf.utahjs.com/)
 * [@utjs](https://twitter.com/utjs)
 
-### TXJS
-
-* Austin, TX
-* April 15, 2014
-* [2013.texasjavascript.com](http://2013.texasjavascript.com/)
-* [@txjs](https://twitter.com/txjs)
-
 ### JSConf
 
 * Amelia Island, FL
 * May 28-30, 2014
 * [2014.jsconf.us](http://2014.jsconf.us/)
 * [@jsconf](https://twitter.com/jsconf)
+* 
+### MountainWest JavaScript
+
+* Salt Lake City, UT
+* March 17-18, 2014
+* [mtnwestjs.org](http://mtnwestjs.org/)
+* [@mtnwestjs](https://twitter.com/mtnwestjs)
+
+### TXJS
+
+* Austin, TX
+* April 15, 2014
+* [2013.texasjavascript.com](http://2013.texasjavascript.com/)
+* [@txjs](https://twitter.com/txjs)
