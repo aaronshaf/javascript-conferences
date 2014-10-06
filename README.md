@@ -16,6 +16,13 @@
 * [ng-conf.org](http://ng-conf.org/)
 * [@ngconf](https://twitter.com/ngconf)
 
+### NCDevCon
+
+* Raleigh, North Carolina
+* September 13-14, 2014
+* [ncdevcon.com](http://www.ncdevcon.com/)
+* [@ncdevcon](https://twitter.com/ncdevcon)
+
 ### NationJS
 
 * Washington, DC
