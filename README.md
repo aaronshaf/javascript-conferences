@@ -49,7 +49,7 @@
 * May 28-30, 2014
 * [2014.jsconf.us](http://2014.jsconf.us/)
 * [@jsconf](https://twitter.com/jsconf)
-* 
+
 ### MountainWest JavaScript
 
 * Salt Lake City, UT
