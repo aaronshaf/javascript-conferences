@@ -16,6 +16,12 @@
 * [ng-conf.org](http://ng-conf.org/)
 * [@ngconf](https://twitter.com/ngconf)
 
+### Anglebrackets
+
+* Las Vegas, Nevada
+* November 10-13, 2014
+* [anglebrackets.org](https://anglebrackets.org/)
+
 ### NationJS
 
 * Washington, DC
