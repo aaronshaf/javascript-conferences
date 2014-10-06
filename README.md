@@ -16,8 +16,16 @@
 * [ng-conf.org](http://ng-conf.org/)
 * [@ngconf](https://twitter.com/ngconf)
 
+### NationJS
+
+* Washington, DC
+* November 7-8, 2014
+* [nationjs.com](http://nationjs.com/)
+* [@nationjs](https://twitter.com/nationjs)
+
 ### NodeConf
 
+* Walker Creek Ranch, CA
 * July 4, 2014
 * [nodeconf.com](http://nodeconf.com/)
 * [@nodeconf](https://twitter.com/nodeconf)
