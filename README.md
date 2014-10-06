@@ -16,7 +16,7 @@
 * [nodeconf.com](http://nodeconf.com/)
 * [@nodeconf](https://twitter.com/nodeconf)
 
-### strangeloop
+### Strange Loop
 
 * St. Louis, MO
 * Sptember 17-19, 2014
