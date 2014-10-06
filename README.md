@@ -4,11 +4,17 @@
 
 ### Fluent
 
-
 * San Fransisco, CA
 * April 20-22, 2015
 * [fluentconf.com/fluent2015](http://fluentconf.com/fluent2015)
 * [@fluentconf](https://twitter.com/fluentconf)
+
+### ng-conf
+
+* Salt Lake City, UT
+* March 5-6, 2015
+* [ng-conf.org](http://ng-conf.org/)
+* [@ngconf](https://twitter.com/ngconf)
 
 ### NodeConf
 
