@@ -23,7 +23,7 @@
 * [thestrangeloop.com](https://thestrangeloop.com/)
 * [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 
-### jqcon
+### jQuery Conference
 
 * Chicago, IL
 * September 12-13, 2014
