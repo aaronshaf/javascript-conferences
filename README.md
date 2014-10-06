@@ -16,13 +16,6 @@
 * [ng-conf.org](http://ng-conf.org/)
 * [@ngconf](https://twitter.com/ngconf)
 
-### NCDevCon
-
-* Raleigh, North Carolina
-* September 13-14, 2014
-* [ncdevcon.com](http://www.ncdevcon.com/)
-* [@ncdevcon](https://twitter.com/ncdevcon)
-
 ### NationJS
 
 * Washington, DC
@@ -43,6 +36,14 @@
 * Sptember 17-19, 2014
 * [thestrangeloop.com](https://thestrangeloop.com/)
 * [@strangeloop_stl](https://twitter.com/strangeloop_stl)
+
+
+### NCDevCon
+
+* Raleigh, North Carolina
+* September 13-14, 2014
+* [ncdevcon.com](http://www.ncdevcon.com/)
+* [@ncdevcon](https://twitter.com/ncdevcon)
 
 ### jQuery Conference
 
